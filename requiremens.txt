@@ -1,0 +1,17 @@
+Webpack (imports/exports)
+  Babel
+  Scss
+  Eslint
+  2 modes
+    -dev
+      dev server, sourceMap, Eslint, Not minified js & CSS
+    -prod
+      minified code
+Git
+  production
+    1.0.0
+    ---------
+  development
+    1.0.2
+    1___________+_
+    2____________/ pull request    del after pull request
