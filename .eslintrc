@@ -1,0 +1,14 @@
+{
+  "parser": "@babel/eslint-parser",
+  "parserOptions": {
+    "requireConfigFile": false
+  },
+  "rules": {
+    "no-undef": "off",
+    "require-jsdoc": "off"
+  },
+  "extends": [
+    "eslint:recommended",
+    "google"
+  ]
+}
